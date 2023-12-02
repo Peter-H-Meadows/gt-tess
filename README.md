@@ -1,1 +1,1 @@
-# gt-tess
+# gt-tess## Installation```Metacello new	repository: 'github://Peter-H-Meadows/gt-tess:master/src';	baseline: 'GtTess';	load```## Load Lepiter				After installing with Metacello, you will be able to execute```#BaselineOfGtTess asClass loadLepiter```
